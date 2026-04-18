@@ -2,9 +2,11 @@
 
 A stunning interactive 3D portfolio built with React, Three.js, and GSAP. Features a physics-driven tech stack showcase, smooth scroll animations, and a fully personalized layout reflecting my resume.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-5eead4?style=for-the-badge)](https://github.com/Avenger11764/my_portfolio)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-5eead4?style=for-the-badge&logo=vercel)](https://avinashbajpai.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Avenger11764-181717?style=for-the-badge&logo=github)](https://github.com/Avenger11764)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avinash--bajpai-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinash-bajpai/)
+
+🌐 **Live:** [https://avinashbajpai.vercel.app/](https://avinashbajpai.vercel.app/)
 
 ---
 
