@@ -114,7 +114,6 @@ A full-stack platform to organize and practice Data Structures and Algorithms pr
 | Platform | Link |
 |---|---|
 | Email | avenger11764@gmail.com |
-| Phone | (+91) 9532009373 |
 | LinkedIn | [avinash-bajpai](https://www.linkedin.com/in/avinash-bajpai/) |
 | GitHub | [@Avenger11764](https://github.com/Avenger11764) |
 | Twitter / X | [@Devavinashhh](https://x.com/Devavinashhh) |
